@@ -1,0 +1,104 @@
+Uri: https://grass.artemgoj.store/images/-dcqirj5.png
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\-dcqirj5.png
+Content Type: image/png
+
+Uri: https://grass.artemgoj.store/images/91gi06od.png
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\91gi06od.png
+Content Type: image/png
+
+Uri: https://grass.artemgoj.store/images/dswpcvff.png
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\dswpcvff.png
+Content Type: image/png
+
+Uri: https://grass.artemgoj.store/images/offer_benefit1.svg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\offer_benefit1.svg
+Content Type: image/svg+xml
+
+Uri: https://grass.artemgoj.store/images/offer_benefit2.svg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\offer_benefit2.svg
+Content Type: image/svg+xml
+
+Uri: https://grass.artemgoj.store/images/stars.png
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\images\stars.png
+Content Type: image/png
+
+Uri: https://smorodina.ukrainehata.site/
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\index.htm
+Content Type: text/html
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/bw8w894d.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\bw8w894d.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/e1.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\e1.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/e2.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\e2.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/e3.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\e3.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/e4.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\e4.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/GothamPro.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\GothamPro.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/jquery.min.js.завантаження
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\jquery.min.js.завантаження
+Content Type: application/javascript
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/main.js.завантаження
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\main.js.завантаження
+Content Type: application/javascript
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/new.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\new.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/owl.carousel.min.js.завантаження
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\owl.carousel.min.js.завантаження
+Content Type: application/javascript
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/reset.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\reset.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/scripts.js.завантаження
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\scripts.js.завантаження
+Content Type: application/javascript
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/style.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\style.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/swiper-bundle.min.js.завантаження
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\swiper-bundle.min.js.завантаження
+Content Type: application/javascript
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/tija1dp4.jpg
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\tija1dp4.jpg
+Content Type: image/jpeg
+
+Uri: https://smorodina.ukrainehata.site/smorodina_files/vidos22.MP4
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\smorodina_files\vidos22.MP4
+Content Type: video/mp4
+
+Uri: https://www.facebook.com/tr?id=2444604559250233&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\smorodina.ukrainehata.site\tr
+Content Type: text/plain
+
